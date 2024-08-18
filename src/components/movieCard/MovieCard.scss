@@ -1,0 +1,7 @@
+.movie-card {
+    flex-grow: 1;
+    .card-body {
+        display: flex;
+        justify-content: space-between;
+    }
+}
